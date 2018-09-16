@@ -1,0 +1,35 @@
+_repo: The-Spoilers_51840
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Underwood, Clarence F.
+    gutenberg_agent_id: '7139'
+    url: http://www.gutenberg.org/2009/agents/7139
+creator:
+  author:
+    agent_name: Beach, Rex
+    alias: Beach, Rex Ellingwood
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '4000'
+    url: http://www.gutenberg.org/2009/agents/4000
+    wikipedia: http://en.wikipedia.org/wiki/Rex_Beach
+description: ''
+gutenberg_issued: '2016-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- History -- 19th century -- Fiction'
+- !lcsh 'Gold mines and mining -- Yukon River Valley (Yukon and Alaska) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Historical fiction'
+- !lcsh 'Frontier and pioneer life -- Yukon River Valley (Yukon and Alaska) -- Fiction'
+- GITenberg
+title: The Spoilers
+url: http://www.gutenberg.org/ebooks/51840
